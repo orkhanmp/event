@@ -43,25 +43,25 @@
   },
   {
     "ContainingType": "EventAPI.Controllers.AttendeeController",
-    "Method": "Delete",
-    "RelativePath": "api/Attendee",
-    "HttpMethod": "DELETE",
+    "Method": "Get",
+    "RelativePath": "api/Attendee/{id}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "EventAPI.Controllers.AttendeeController",
-    "Method": "Get",
+    "Method": "Delete",
     "RelativePath": "api/Attendee/{id}",
-    "HttpMethod": "GET",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -117,25 +117,25 @@
   },
   {
     "ContainingType": "EventAPI.Controllers.EventController",
-    "Method": "Delete",
-    "RelativePath": "api/Event",
-    "HttpMethod": "DELETE",
+    "Method": "Get",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "EventAPI.Controllers.EventController",
-    "Method": "Get",
+    "Method": "Delete",
     "RelativePath": "api/Event/{id}",
-    "HttpMethod": "GET",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

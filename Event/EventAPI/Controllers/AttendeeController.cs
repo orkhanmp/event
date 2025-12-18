@@ -48,7 +48,7 @@ namespace EventAPI.Controllers
             return Ok("200");
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
 
         public IActionResult Delete(int id)
         {

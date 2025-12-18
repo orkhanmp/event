@@ -73,15 +73,18 @@
             "description": "OK"
           }
         }
-      },
-      "delete": {
+      }
+    },
+    "/api/Attendee/{id}": {
+      "get": {
         "tags": [
           "Attendee"
         ],
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -93,10 +96,8 @@
             "description": "OK"
           }
         }
-      }
-    },
-    "/api/Attendee/{id}": {
-      "get": {
+      },
+      "delete": {
         "tags": [
           "Attendee"
         ],
@@ -186,15 +187,18 @@
             "description": "OK"
           }
         }
-      },
-      "delete": {
+      }
+    },
+    "/api/Event/{id}": {
+      "get": {
         "tags": [
           "Event"
         ],
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -206,10 +210,8 @@
             "description": "OK"
           }
         }
-      }
-    },
-    "/api/Event/{id}": {
-      "get": {
+      },
+      "delete": {
         "tags": [
           "Event"
         ],

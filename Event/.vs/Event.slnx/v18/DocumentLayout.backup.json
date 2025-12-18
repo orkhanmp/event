@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FFBB164-7325-41DE-9357-0031438BAAA5}|EventAPI\\EventAPI.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\eventmanagment\\event\\event\\eventapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFBB164-7325-41DE-9357-0031438BAAA5}|EventAPI\\EventAPI.csproj|solutionrelative:eventapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFBB164-7325-41DE-9357-0031438BAAA5}|EventAPI\\EventAPI.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\eventmanagment\\event\\event\\eventapi\\controllers\\attendeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFBB164-7325-41DE-9357-0031438BAAA5}|EventAPI\\EventAPI.csproj|solutionrelative:eventapi\\controllers\\attendeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57A42F7B-BB0F-C892-17D4-7A4992AAC4E9}|00.Core\\Core\\Core.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\eventmanagment\\event\\event\\00.core\\core\\concrete\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57A42F7B-BB0F-C892-17D4-7A4992AAC4E9}|00.Core\\Core\\Core.csproj|solutionrelative:00.core\\core\\concrete\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,14 +55,6 @@
       "RelativeMoniker": "D:0:0:{5E6CD71E-27CB-DF34-DA9D-408973630D43}|03.BLL\\BLL\\BLL.csproj|solutionrelative:03.bll\\bll\\abstract\\iattendeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FFBB164-7325-41DE-9357-0031438BAAA5}|EventAPI\\EventAPI.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\eventmanagment\\event\\event\\eventapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FFBB164-7325-41DE-9357-0031438BAAA5}|EventAPI\\EventAPI.csproj|solutionrelative:eventapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FFBB164-7325-41DE-9357-0031438BAAA5}|EventAPI\\EventAPI.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\eventmanagment\\event\\event\\eventapi\\controllers\\attendeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FFBB164-7325-41DE-9357-0031438BAAA5}|EventAPI\\EventAPI.csproj|solutionrelative:eventapi\\controllers\\attendeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|c:\\users\\orkhan\\desktop\\orkhan\\csharp\\eventmanagment\\event\\event\\01.entities\\entities\\dto\\eventdto\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18B1F851-FB4F-A17F-5C38-7F98855FEE9E}|01.Entities\\Entities\\Entities.csproj|solutionrelative:01.entities\\entities\\dto\\eventdto\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,33 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "AttendeeController.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\EventAPI\\Controllers\\AttendeeController.cs",
               "RelativeDocumentMoniker": "EventAPI\\Controllers\\AttendeeController.cs",
               "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\EventAPI\\Controllers\\AttendeeController.cs",
               "RelativeToolTip": "EventAPI\\Controllers\\AttendeeController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswDAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T12:47:16.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\EventAPI\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "EventAPI\\Controllers\\EventController.cs",
               "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\EventAPI\\Controllers\\EventController.cs",
               "RelativeToolTip": "EventAPI\\Controllers\\EventController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T12:45:03.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AttendeeManager.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\03.BLL\\BLL\\Concrete\\AttendeeManager.cs",
               "RelativeDocumentMoniker": "03.BLL\\BLL\\Concrete\\AttendeeManager.cs",
@@ -120,12 +120,11 @@
               "RelativeToolTip": "03.BLL\\BLL\\Concrete\\AttendeeManager.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAnwDwAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:33:24.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T12:33:24.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IAttendeeService.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\03.BLL\\BLL\\Abstract\\IAttendeeService.cs",
               "RelativeDocumentMoniker": "03.BLL\\BLL\\Abstract\\IAttendeeService.cs",
@@ -133,12 +132,11 @@
               "RelativeToolTip": "03.BLL\\BLL\\Abstract\\IAttendeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:33:21.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T12:33:21.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EventListDTO.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\01.Entities\\Entities\\DTO\\EventDTO\\EventListDTO.cs",
               "RelativeDocumentMoniker": "01.Entities\\Entities\\DTO\\EventDTO\\EventListDTO.cs",
@@ -146,12 +144,11 @@
               "RelativeToolTip": "01.Entities\\Entities\\DTO\\EventDTO\\EventListDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:24:51.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:24:51.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EventManager.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\03.BLL\\BLL\\Concrete\\EventManager.cs",
               "RelativeDocumentMoniker": "03.BLL\\BLL\\Concrete\\EventManager.cs",
@@ -159,12 +156,11 @@
               "RelativeToolTip": "03.BLL\\BLL\\Concrete\\EventManager.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T09:40:29.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T09:40:29.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IEventDAL.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\02.DAL\\DAL\\Abstract\\IEventDAL.cs",
               "RelativeDocumentMoniker": "02.DAL\\DAL\\Abstract\\IEventDAL.cs",
@@ -172,25 +168,24 @@
               "RelativeToolTip": "02.DAL\\DAL\\Abstract\\IEventDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:13:32.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T12:13:32.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\00.Core\\Core\\Concrete\\BaseRepository.cs",
               "RelativeDocumentMoniker": "00.Core\\Core\\Concrete\\BaseRepository.cs",
               "ToolTip": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\00.Core\\Core\\Concrete\\BaseRepository.cs",
               "RelativeToolTip": "00.Core\\Core\\Concrete\\BaseRepository.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDoAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T13:38:42.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EventDAL.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\02.DAL\\DAL\\Concrete\\EventDAL.cs",
               "RelativeDocumentMoniker": "02.DAL\\DAL\\Concrete\\EventDAL.cs",
@@ -198,12 +193,11 @@
               "RelativeToolTip": "02.DAL\\DAL\\Concrete\\EventDAL.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:50:52.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:50:52.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\00.Core\\Core\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "00.Core\\Core\\Entity\\BaseEntity.cs",
@@ -211,12 +205,11 @@
               "RelativeToolTip": "00.Core\\Core\\Entity\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:38:46.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:38:46.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\01.Entities\\Entities\\TableModels\\Event.cs",
               "RelativeDocumentMoniker": "01.Entities\\Entities\\TableModels\\Event.cs",
@@ -224,12 +217,11 @@
               "RelativeToolTip": "01.Entities\\Entities\\TableModels\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:50:20.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:50:20.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\00.Core\\Core\\Abstract\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "00.Core\\Core\\Abstract\\IBaseRepository.cs",
@@ -237,8 +229,7 @@
               "RelativeToolTip": "00.Core\\Core\\Abstract\\IBaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:43:31.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:43:31.678Z"
             },
             {
               "$type": "Document",
@@ -250,8 +241,7 @@
               "RelativeToolTip": "01.Entities\\Entities\\DTO\\EventDTO\\EventUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:21:41.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:21:41.007Z"
             },
             {
               "$type": "Document",
@@ -263,12 +253,11 @@
               "RelativeToolTip": "01.Entities\\Entities\\DTO\\AttendeeDTO\\AttendeeUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:22:00.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:22:00.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\orkhan\\Desktop\\Orkhan\\CSharp\\EventManagment\\event\\Event\\EventAPI\\Program.cs",
               "RelativeDocumentMoniker": "EventAPI\\Program.cs",
@@ -276,8 +265,7 @@
               "RelativeToolTip": "EventAPI\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:33:10.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T12:33:10.247Z"
             },
             {
               "$type": "Document",
@@ -289,8 +277,7 @@
               "RelativeToolTip": "01.Entities\\Entities\\DTO\\AttendeeDTO\\AttendeeListDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:24:30.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:24:30.702Z"
             }
           ]
         }
